@@ -1,4 +1,4 @@
-public class Q9 {
+public class Q9_Vetor {
     public static void main(String[] args){
         int[] v= new int[100];
         int posicao = 0;

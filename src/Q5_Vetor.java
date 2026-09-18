@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Q5 {
+public class Q5_Vetor {
     public static void main(String[] args){
         Scanner sc= new Scanner(System.in);
 

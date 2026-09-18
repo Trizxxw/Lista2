@@ -1,4 +1,4 @@
-public class Q1{
+public class Q1_Vetor {
     public static void main(String[] args){
 
         int []v = {1, 0, 5, -2, -5, 7};
